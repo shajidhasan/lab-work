@@ -1,4 +1,4 @@
 *.o
 *.exe
-.vscode
-.editorconfig
+./.vscode
+./.editorconfig
